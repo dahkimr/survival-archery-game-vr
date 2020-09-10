@@ -1,0 +1,21 @@
+Attributions
+------------
+
+Scripts
+-------
+Bow and Arrow shooting scripts were created following a youtube tutorial:
+https://www.youtube.com/watch?v=Dh7Wwqs-s2c
+
+Imported Assets 
+---------------
+Bow and arrow assets:
+https://www.youtube.com/watch?v=Dh7Wwqs-s2c
+
+Skybox assets:
+https://assetstore.unity.com/packages/vfx/shaders/free-skybox-cubemap-extended-107400
+
+Tent and campfire assets:
+https://assetstore.unity.com/packages/3d/props/tools/low-poly-survival-essentials-109444
+
+Tree asset:
+https://assetstore.unity.com/packages/3d/vegetation/lowpoly-vegetation-season-pack-lite-96083
